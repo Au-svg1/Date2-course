@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Classroom mock citation only. DOI not assigned."
+title: "Multivariate analysis-ready dataset"
+type: dataset
+version: "classroom-mock"
+date-released: "YYYY-MM-DD"
+authors:
+  - family-names: "Group 6"
+    given-names: "Student Team"
+identifiers:
+  - type: other
+    value: "DOI: Not assigned — classroom mock release"

@@ -1,0 +1,18 @@
+{
+  "title": "Station comparison data product",
+  "upload_type": "dataset",
+  "description": "A station-comparison dataset built from explicit indicator and temporal-overlap criteria.",
+  "creators": [
+    {
+      "name": "Group 3 Student Team"
+    }
+  ],
+  "keywords": [
+    "water quality",
+    "CNEMC-derived",
+    "classroom mock release"
+  ],
+  "license": "not selected - classroom mock",
+  "doi": "Not assigned — classroom mock release",
+  "publication_status": "local classroom mock only"
+}

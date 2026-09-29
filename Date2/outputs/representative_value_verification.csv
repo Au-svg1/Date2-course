@@ -1,0 +1,7 @@
+﻿ReportWeek,MonitoringLocationName,IndicatorsName,ExpectedValue,Value,SourcePDF,PDFPage,MatchesPDF
+14,吉林溪浪口,pH,6.93,6.93,2014年第14期.pdf,2,True
+14,吉林溪浪口,Dissolved oxygen,6.91,6.91,2014年第14期.pdf,2,True
+14,吉林溪浪口,Permanganate index,3.6,3.6,2014年第14期.pdf,2,True
+14,吉林溪浪口,Ammonia nitrogen,0.43,0.43,2014年第14期.pdf,2,True
+15,吉林溪浪口,pH,6.83,6.83,2014年第15期.pdf,2,True
+15,长春松花江村,Dissolved oxygen,9.6,9.6,2014年第15期.pdf,2,True

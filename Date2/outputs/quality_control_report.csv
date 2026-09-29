@@ -1,0 +1,10 @@
+﻿QCFlag,IndicatorsName,RowCount
+pass,Ammonia nitrogen,4333
+pass,Dissolved oxygen,4330
+pass,Permanganate index,4338
+pass,pH,4337
+range_review,Permanganate index,1
+reported_missing,Ammonia nitrogen,144
+reported_missing,Dissolved oxygen,147
+reported_missing,Permanganate index,138
+reported_missing,pH,140

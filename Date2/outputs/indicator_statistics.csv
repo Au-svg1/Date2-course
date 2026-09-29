@@ -1,0 +1,5 @@
+﻿MonitoringLocationType,IndicatorsName,Unit,NumberOfMonitoringStations,NumberOfObservations,MissingValueCount,MissingValuePercent,Mean,Median,StandardDeviation,Minimum,Q25,Q75,Maximum
+Unavailable,Ammonia nitrogen,mg/L,255.0,4477.0,144.0,3.2164395800759435,0.5711354719593815,0.23,1.6226969626132097,0.0,0.14,0.41,20.1
+Unavailable,Dissolved oxygen,mg/L,255.0,4477.0,147.0,3.283448737994193,7.976233256351039,7.83,2.5669607820079015,0.0,6.53,9.48,25.7
+Unavailable,Permanganate index,mg/L,255.0,4477.0,138.0,3.082421264239446,4.068757778289928,3.2,3.2106520210515472,-1.8,2.0,5.2,57.5
+Unavailable,pH,dimensionless,255.0,4477.0,140.0,3.127094036184945,7.663430943048191,7.63,0.5562216342051117,6.03,7.28,8.05,9.92

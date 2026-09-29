@@ -1,0 +1,18 @@
+{
+  "title": "Multivariate analysis-ready dataset",
+  "upload_type": "dataset",
+  "description": "A documented station–week feature table prepared for later multivariate or ML analysis.",
+  "creators": [
+    {
+      "name": "Group 6 Student Team"
+    }
+  ],
+  "keywords": [
+    "water quality",
+    "CNEMC-derived",
+    "classroom mock release"
+  ],
+  "license": "not selected - classroom mock",
+  "doi": "Not assigned — classroom mock release",
+  "publication_status": "local classroom mock only"
+}

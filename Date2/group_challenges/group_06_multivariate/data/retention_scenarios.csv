@@ -1,0 +1,16 @@
+﻿FeatureSet,NumberOfFeatures,CompleteRows,Stations,Weeks
+Ammonia nitrogen,1,4333,250,33
+Dissolved oxygen,1,4330,250,33
+Permanganate index,1,4339,249,33
+pH,1,4337,250,33
+Ammonia nitrogen + Dissolved oxygen,2,4317,250,33
+Ammonia nitrogen + Permanganate index,2,4325,249,33
+Ammonia nitrogen + pH,2,4323,250,33
+Dissolved oxygen + Permanganate index,2,4322,249,33
+Dissolved oxygen + pH,2,4328,250,33
+Permanganate index + pH,2,4329,249,33
+Ammonia nitrogen + Dissolved oxygen + Permanganate index,3,4309,249,33
+Ammonia nitrogen + Dissolved oxygen + pH,3,4315,250,33
+Ammonia nitrogen + Permanganate index + pH,3,4315,249,33
+Dissolved oxygen + Permanganate index + pH,3,4320,249,33
+Ammonia nitrogen + Dissolved oxygen + Permanganate index + pH,4,4307,249,33

@@ -1,0 +1,14 @@
+﻿Check,Severity,ObservedCount,ExpectedCount,Interpretation,Status
+duplicate_record_identifiers,FAIL,0,0,Primary keys must be unique.,PASS
+missing_station_identifiers,FAIL,0,0,Every observation must have a station identifier.,PASS
+missing_station_names,FAIL,0,0,Every observation must retain its reported station name.,PASS
+missing_or_unparsed_report_dates,FAIL,0,0,Reporting-period dates must be available.,PASS
+end_date_before_start_date,FAIL,0,0,Cross-year weeks must use the preceding year for a December start date.,PASS
+indicator_unit_mismatches,FAIL,0,0,Each indicator must use its declared unit.,PASS
+missing_source_pdf,FAIL,0,0,Every observation must retain PDF provenance.,PASS
+observation_keys_missing_from_metadata,FAIL,0,0,Every observation station-indicator key must exist in metadata.,PASS
+metadata_keys_without_observations,FAIL,0,0,Every metadata key must reference at least one observation.,PASS
+duplicate_report_weeks,FAIL,0,0,Only one source report is expected for each reporting week.,PASS
+unlogged_pdf_files,FAIL,0,0,Every discovered PDF must appear exactly once in the extraction log.,PASS
+range_review_rows,WARNING,1,0,Retain and inspect values outside the broad screening range; they are not automatically errors.,WARNING
+reports_requiring_manual_review,WARNING,0,0,Partial or failed extraction requires source-page review.,PASS

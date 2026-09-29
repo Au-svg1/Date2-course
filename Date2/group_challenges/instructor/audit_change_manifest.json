@@ -1,0 +1,193 @@
+{
+  "modified": [
+    "README.md",
+    "group_01_DO/challenge_brief.md",
+    "group_01_DO/resources/package_guide.md",
+    "group_01_DO/starter_analysis.py",
+    "group_02_nutrients/challenge_brief.md",
+    "group_02_nutrients/resources/package_guide.md",
+    "group_02_nutrients/starter_analysis.py",
+    "group_03_station_comparison/challenge_brief.md",
+    "group_03_station_comparison/resources/package_guide.md",
+    "group_03_station_comparison/starter_analysis.py",
+    "group_04_temporal_coverage/challenge_brief.md",
+    "group_04_temporal_coverage/resources/package_guide.md",
+    "group_04_temporal_coverage/starter_analysis.py",
+    "group_05_high_quality_dataset/challenge_brief.md",
+    "group_05_high_quality_dataset/resources/package_guide.md",
+    "group_05_high_quality_dataset/starter_analysis.py",
+    "group_06_multivariate/challenge_brief.md",
+    "group_06_multivariate/resources/package_guide.md",
+    "group_06_multivariate/starter_analysis.py",
+    "group_07_qc_provenance/challenge_brief.md",
+    "group_07_qc_provenance/resources/package_guide.md",
+    "group_07_qc_provenance/starter_analysis.py",
+    "instructor/overview.md",
+    "validate_group_packages.py"
+  ],
+  "moved": [
+    {
+      "from": "group_01_DO/README.md",
+      "to": "group_01_DO/resources/package_guide.md"
+    },
+    {
+      "from": "group_01_DO/review_questions.md",
+      "to": "group_01_DO/resources/review_questions.md"
+    },
+    {
+      "from": "group_01_DO/AI_verification_log.md",
+      "to": "group_01_DO/submission_template/AI_verification_log.md"
+    },
+    {
+      "from": "group_01_DO/expected_outputs.md",
+      "to": "group_01_DO/submission_template/expected_outputs.md"
+    },
+    {
+      "from": "group_01_DO/mock_release",
+      "to": "group_01_DO/submission_template/mock_release"
+    },
+    {
+      "from": "group_02_nutrients/README.md",
+      "to": "group_02_nutrients/resources/package_guide.md"
+    },
+    {
+      "from": "group_02_nutrients/review_questions.md",
+      "to": "group_02_nutrients/resources/review_questions.md"
+    },
+    {
+      "from": "group_02_nutrients/AI_verification_log.md",
+      "to": "group_02_nutrients/submission_template/AI_verification_log.md"
+    },
+    {
+      "from": "group_02_nutrients/expected_outputs.md",
+      "to": "group_02_nutrients/submission_template/expected_outputs.md"
+    },
+    {
+      "from": "group_02_nutrients/mock_release",
+      "to": "group_02_nutrients/submission_template/mock_release"
+    },
+    {
+      "from": "group_03_station_comparison/README.md",
+      "to": "group_03_station_comparison/resources/package_guide.md"
+    },
+    {
+      "from": "group_03_station_comparison/review_questions.md",
+      "to": "group_03_station_comparison/resources/review_questions.md"
+    },
+    {
+      "from": "group_03_station_comparison/AI_verification_log.md",
+      "to": "group_03_station_comparison/submission_template/AI_verification_log.md"
+    },
+    {
+      "from": "group_03_station_comparison/expected_outputs.md",
+      "to": "group_03_station_comparison/submission_template/expected_outputs.md"
+    },
+    {
+      "from": "group_03_station_comparison/mock_release",
+      "to": "group_03_station_comparison/submission_template/mock_release"
+    },
+    {
+      "from": "group_04_temporal_coverage/README.md",
+      "to": "group_04_temporal_coverage/resources/package_guide.md"
+    },
+    {
+      "from": "group_04_temporal_coverage/review_questions.md",
+      "to": "group_04_temporal_coverage/resources/review_questions.md"
+    },
+    {
+      "from": "group_04_temporal_coverage/AI_verification_log.md",
+      "to": "group_04_temporal_coverage/submission_template/AI_verification_log.md"
+    },
+    {
+      "from": "group_04_temporal_coverage/expected_outputs.md",
+      "to": "group_04_temporal_coverage/submission_template/expected_outputs.md"
+    },
+    {
+      "from": "group_04_temporal_coverage/mock_release",
+      "to": "group_04_temporal_coverage/submission_template/mock_release"
+    },
+    {
+      "from": "group_05_high_quality_dataset/README.md",
+      "to": "group_05_high_quality_dataset/resources/package_guide.md"
+    },
+    {
+      "from": "group_05_high_quality_dataset/review_questions.md",
+      "to": "group_05_high_quality_dataset/resources/review_questions.md"
+    },
+    {
+      "from": "group_05_high_quality_dataset/AI_verification_log.md",
+      "to": "group_05_high_quality_dataset/submission_template/AI_verification_log.md"
+    },
+    {
+      "from": "group_05_high_quality_dataset/expected_outputs.md",
+      "to": "group_05_high_quality_dataset/submission_template/expected_outputs.md"
+    },
+    {
+      "from": "group_05_high_quality_dataset/mock_release",
+      "to": "group_05_high_quality_dataset/submission_template/mock_release"
+    },
+    {
+      "from": "group_06_multivariate/README.md",
+      "to": "group_06_multivariate/resources/package_guide.md"
+    },
+    {
+      "from": "group_06_multivariate/review_questions.md",
+      "to": "group_06_multivariate/resources/review_questions.md"
+    },
+    {
+      "from": "group_06_multivariate/AI_verification_log.md",
+      "to": "group_06_multivariate/submission_template/AI_verification_log.md"
+    },
+    {
+      "from": "group_06_multivariate/expected_outputs.md",
+      "to": "group_06_multivariate/submission_template/expected_outputs.md"
+    },
+    {
+      "from": "group_06_multivariate/mock_release",
+      "to": "group_06_multivariate/submission_template/mock_release"
+    },
+    {
+      "from": "group_07_qc_provenance/README.md",
+      "to": "group_07_qc_provenance/resources/package_guide.md"
+    },
+    {
+      "from": "group_07_qc_provenance/review_questions.md",
+      "to": "group_07_qc_provenance/resources/review_questions.md"
+    },
+    {
+      "from": "group_07_qc_provenance/AI_verification_log.md",
+      "to": "group_07_qc_provenance/submission_template/AI_verification_log.md"
+    },
+    {
+      "from": "group_07_qc_provenance/expected_outputs.md",
+      "to": "group_07_qc_provenance/submission_template/expected_outputs.md"
+    },
+    {
+      "from": "group_07_qc_provenance/mock_release",
+      "to": "group_07_qc_provenance/submission_template/mock_release"
+    }
+  ],
+  "created": [
+    "group_01_DO/START_HERE.md",
+    "group_01_DO/submission_template/README.md",
+    "group_02_nutrients/START_HERE.md",
+    "group_02_nutrients/submission_template/README.md",
+    "group_03_station_comparison/START_HERE.md",
+    "group_03_station_comparison/submission_template/README.md",
+    "group_04_temporal_coverage/START_HERE.md",
+    "group_04_temporal_coverage/submission_template/README.md",
+    "group_05_high_quality_dataset/START_HERE.md",
+    "group_05_high_quality_dataset/submission_template/README.md",
+    "group_06_multivariate/START_HERE.md",
+    "group_06_multivariate/submission_template/README.md",
+    "group_07_qc_provenance/START_HERE.md",
+    "group_07_qc_provenance/submission_template/README.md",
+    "instructor/challenge_audit_report.md",
+    "instructor/live_challenges.md",
+    "instructor/audit_change_manifest.json"
+  ],
+  "notes": [
+    "No files under Date2/outputs or group data CSV files were intentionally changed.",
+    "No external upload or DOI generation was performed."
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "group_01_DO": {
+    "rows": 4477,
+    "indicators": [
+      "Dissolved oxygen"
+    ]
+  },
+  "group_02_nutrients": {
+    "rows": 4477,
+    "indicators": [
+      "Ammonia nitrogen"
+    ]
+  },
+  "group_03_station_comparison": {
+    "rows": 3168,
+    "indicators": [
+      "Ammonia nitrogen",
+      "Dissolved oxygen",
+      "Permanganate index",
+      "pH"
+    ]
+  },
+  "group_04_temporal_coverage": {
+    "rows": 1020,
+    "indicators": [
+      "Ammonia nitrogen",
+      "Dissolved oxygen",
+      "Permanganate index",
+      "pH"
+    ]
+  },
+  "group_05_high_quality_dataset": {
+    "rows": 1020,
+    "indicators": [
+      "Ammonia nitrogen",
+      "Dissolved oxygen",
+      "Permanganate index",
+      "pH"
+    ]
+  },
+  "group_06_multivariate": {
+    "rows": 4347,
+    "indicators": [
+      "Ammonia nitrogen",
+      "Dissolved oxygen",
+      "Permanganate index",
+      "pH"
+    ]
+  },
+  "group_07_qc_provenance": {
+    "rows": 834,
+    "indicators": [
+      "Ammonia nitrogen",
+      "Dissolved oxygen",
+      "Permanganate index",
+      "pH"
+    ]
+  }
+}

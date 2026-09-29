@@ -1,0 +1,6 @@
+work_outputs/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+# Keep the full shared Date2 dataset outside a public group repository.

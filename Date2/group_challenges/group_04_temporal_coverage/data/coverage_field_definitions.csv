@@ -1,0 +1,5 @@
+﻿Field,Date2Definition,UnitOfAnalysis
+DataIntensity,Non-missing reported values divided by extracted reporting periods,station-indicator
+OverallAvailability,Non-missing reported values divided by expected report weeks,station-indicator
+LongestAvailability,Longest consecutive observed run divided by expected report weeks,station-indicator
+Continuity,Longest consecutive observed run divided by observed weeks,station-indicator

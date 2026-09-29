@@ -1,0 +1,28 @@
+﻿VariableName,Definition,DataType,Unit,MissingValueConvention,DataSource,QualityControlNotes
+RecordIdentifier,Unique observation identifier,string,none,blank not allowed,Derived,Primary key
+MonitoringLocationIdentifier,"Deterministic station identifier from reported basin, river, and station text",string,none,blank not allowed,Derived from PDF,Identity changes if source naming changes
+MonitoringLocationName,Monitoring station name as extracted and whitespace-normalized,string,none,blank,PDF table,No geographic inference
+RiverBasin,River-basin label carried forward from merged PDF cells,string,none,blank,PDF table,Review page-boundary carry-forward
+RiverName,River name carried forward from merged PDF cells,string,none,blank,PDF table,Review page-boundary carry-forward
+SectionContext,"Reported section context, such as boundary or reservoir context",string,none,blank,PDF table,Not used to infer site type
+ReportIssue,Weekly report issue number,integer,none,blank,PDF title,
+ReportWeek,Reported week number,integer,week,blank,PDF title,"Reporting period, not sample timestamp"
+ReportPeriodStart,Start date of weekly reporting period,date,none,blank,PDF narrative,
+ReportPeriodEnd,End date of weekly reporting period,date,none,blank,PDF narrative,
+SamplingDate,Actual sampling date,date,none,blank,Not available,Intentionally missing
+MeasurementTimestamp,Actual measurement timestamp,datetime,none,blank,Not available,Intentionally missing
+IndicatorsName,Standardized water-quality indicator,string,none,blank not allowed,PDF header,
+Value,Parsed numerical weekly value,float,see Unit,blank,PDF table,Retained when flagged
+Unit,Measurement unit,string,dimensionless or mg/L,blank,PDF header plus pH correction,Never combine unlike units
+OriginalValue,Unmodified extracted value token,string,source notation,blank,PDF table,Audit field
+QCFlag,Quality-control screening result,string,none,blank not allowed,Derived,Flags do not prove error
+QCAction,Recommended retention/review action,string,none,blank not allowed,Derived,
+WaterQualityClassCurrent,Reported current-week water-quality class,string,class,blank,PDF table,Categorical
+WaterQualityClassPrevious,Reported previous-week water-quality class,string,class,blank,PDF table,Categorical
+MainPollutants,Reported main pollutants,string,none,blank,PDF table,Categorical text
+SourceProvider,Verified report provider,string,none,blank not allowed,PDF title page,
+SourcePDF,Source PDF filename,string,none,blank not allowed,Filesystem,Provenance
+PDFPage,One-based source page number,integer,page,blank not allowed,Extraction,Provenance
+PDFTable,One-based table number on page,integer,table,blank not allowed,Extraction,Provenance
+PDFSourceRow,One-based row within extracted table,integer,row,blank not allowed,Extraction,Provenance
+ExtractionMethod,Software extraction method,string,none,blank not allowed,Processing,
